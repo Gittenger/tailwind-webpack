@@ -1,0 +1,9 @@
+.test {
+	p {
+		@apply text-xl font-serif;
+
+		span {
+			@apply font-sans text-purple-700;
+		}
+	}
+}
